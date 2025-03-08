@@ -1,4 +1,4 @@
-Here’s a suggested README for your AI Photo Generator project based on your GitHub repository link:
+
 
 AI Photo Generator
 
